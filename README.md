@@ -1,78 +1,42 @@
 # Minecraft Mob List
 
-## Hostile
-- ELDER_GUARDIAN
-- WITHER_SKELETON
-- STRAY
-- HUSK
-- ZOMBIE_VILLAGER
-- EVOKER
-- VEX
-- VINDICATOR
-- ILLUSIONER
-- CREEPER
-- SKELETON
-- SPIDER
-- GIANT
-- ZOMBIE
-- SLIME
-- GHAST
-- ZOMBIFIED_PIGLIN
-- ENDERMAN
-- CAVE_SPIDER
-- SILVERFISH
-- BLAZE
-- MAGMA_CUBE
-- ENDER_DRAGON
-- WITHER
-- WITCH
-- ENDERMITE
-- GUARDIAN
-- SHULKER
-- PHANTOM
-- DROWNED
-- PILLAGER
-- RAVAGER
-- HOGLIN
-- PIGLIN
-- ZOGLIN
-
-## Peaceful
-- SKELETON_HORSE
-- ZOMBIE_HORSE
-- ARMOR_STAND
-- DONKEY
-- MULE
-- BAT
-- PIG
-- SHEEP
-- COW
-- CHICKEN
-- SQUID
-- WOLF
-- MUSHROOM_COW
-- SNOWMAN
-- OCELOT
-- IRON_GOLEM
-- HORSE
-- RABBIT
-- POLAR_BEAR
-- LLAMA
-- PARROT
-- VILLAGER
-- TURTLE
-- COD
-- SALMON
-- PUFFERFISH
-- TROPICAL_FISH
-- DOLPHIN
-- CAT
-- PANDA
-- TRADER_LLAMA
-- WANDERING_TRADER
-- FOX
-- BEE
-- STRIDER
-- AXOLOTL
-- GLOW_SQUID
-- GOAT
+|        Hostile     |         Peaceful      |
+|--------------------|-----------------------|
+|   ELDER_GUARDIAN   |   SKELETON_HORSE      |
+|   WITHER_SKELETON  |   ZOMBIE_HORSE        |
+|   STRAY            |   ARMOR_STAND         |
+|   HUSK             |   DONKEY              |
+|   ZOMBIE_VILLAGER  |   MULE                |
+|   EVOKER           |   BAT                 |
+|   VEX              |   PIG                 |
+|   VINDICATOR       |   SHEEP               |
+|   ILLUSIONER       |   COW                 |
+|   CREEPER          |   CHICKEN             |
+|   SKELETON         |   SQUID               |
+|   SPIDER           |   WOLF                |
+|   GIANT            |   MUSHROOM_COW        |
+|   ZOMBIE           |   SNOWMAN             |
+|   SLIME            |   OCELOT              |
+|   GHAST            |   IRON_GOLEM          |
+|   ZOMBIFIED_PIGLIN |   HORSE               |
+|   ENDERMAN         |   RABBIT              |
+|   CAVE_SPIDER      |   POLAR_BEAR          |
+|   SILVERFISH       |   LLAMA               |
+|   BLAZE            |   PARROT              |
+|   MAGMA_CUBE       |   VILLAGER            |
+|   ENDER_DRAGON     |   TURTLE              |
+|   WITHER           |   COD                 |
+|   WITCH            |   SALMON              |
+|   ENDERMITE        |   PUFFERFISH          |
+|   GUARDIAN         |   TROPICAL_FISH       |
+|   SHULKER          |   DOLPHIN             |
+|   PHANTOM          |   CAT                 |
+|   DROWNED          |   PANDA               |
+|   PILLAGER         |   TRADER_LLAMA        |
+|   RAVAGER          |   WANDERING_TRADER    |
+|   HOGLIN           |   FOX                 |
+|   PIGLIN           |   BEE                 |
+|   ZOGLIN           |   STRIDER             |
+|                    |   AXOLOTL             |
+|                    |   GLOW_SQUID          |
+|                    |   GOAT                |
