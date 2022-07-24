@@ -1,7 +1,7 @@
 ## Minecraft Mob List
 Note that this list may not be updated and may not contain every mob in the game.
 
-###Hostile
+### Hostile
 - ELDER_GUARDIAN
 - WITHER_SKELETON
 - STRAY
@@ -38,7 +38,7 @@ Note that this list may not be updated and may not contain every mob in the game
 - PIGLIN
 - ZOGLIN
 
-###Peaceful
+### Peaceful
 - SKELETON_HORSE
 - ZOMBIE_HORSE
 - ARMOR_STAND
