@@ -1,4 +1,5 @@
 ## Minecraft Mob List
+Note that this list may not be updated and may not contain every mob in the game.
 
 ###Hostile
 - ELDER_GUARDIAN
