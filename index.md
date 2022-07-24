@@ -77,3 +77,8 @@ Note that this list may not be updated and may not contain every mob in the game
 - AXOLOTL
 - GLOW_SQUID
 - GOAT
+
+
+### Pages
+- [Home Page](https://brand0n1.github.io/)
+
